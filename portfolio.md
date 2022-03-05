@@ -7,7 +7,7 @@ Below are a select list of sites I've worked on in the past.
 **Duration**: April 2020 - present  
 **Tech Stack**: React.js, Django, MySQL, AWS EC2  
 **Team Size**: 5 developers  
-**Awards**: UnionBank of the Philippines "Moonshot Award" 2021  
+**Awards**: UnionBank of the Philippines "Moonshot Award" 2021, Global Brands Magazine "Best Digital Payment Facilitator" 2021, UnionBank "President’s Award" 2022
 
 
 
